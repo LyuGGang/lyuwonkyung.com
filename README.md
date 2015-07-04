@@ -1,2 +1,1 @@
-===lyuwonkyung.com===
-It is just a my personal website.
+It is just a [my personal website](http://lyuwonkyung.com).
