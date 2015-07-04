@@ -9,6 +9,7 @@
     <link href="stylesheets/basic.css" rel="stylesheet">
     <meta name="p:domain_verify" content="63971c6d4424ddb20bdb6576dba445dc"/>
     <script>
+        // for GA
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
@@ -23,38 +24,42 @@
 
         ga('create', 'UA-26110458-2', 'auto');
         ga('require', 'displayfeatures');
+        ga('require', 'linkid', 'linkid.js');
         ga('send', 'pageview');
 
+        var sendClickEvent = function(eventLabel) {
+            ga('send', 'event', 'link', 'click', eventLabel);
+        }
     </script>
 </head>
 <body>
 <div id="header">
     <p>오, 나의 영혼아, 불멸의 삶을 애써 바라지 말고 가능의 영역을 남김없이 다 살려고 노력하라. <br/>
         (O my soul, do not aspire to immortal life, but exhaust the limits of the possible.)<br/>
-        — <a href="http://ko.wikipedia.org/wiki/%ED%95%80%EB%8B%A4%EB%A1%9C%EC%8A%A4">핀다로스</a>, 아폴론 축제
-        경기의 축가 3 (<a href="http://en.wikipedia.org/wiki/Pindar">Pindar</a>, Pythian iii) </p>
+        — <a href="http://ko.wikipedia.org/wiki/%ED%95%80%EB%8B%A4%EB%A1%9C%EC%8A%A4" onclick="sendClickEvent('pindar-korean')">핀다로스</a>, 아폴론 축제
+        경기의 축가 3 (<a href="http://en.wikipedia.org/wiki/Pindar" onclick="sendClickEvent('pindar-english')">Pindar</a>, Pythian iii) </p>
 </div>
 <div id="main">
     <table id="main-table">
         <tr>
             <td>
-                <div class="circle tilt"><a href="https://www.linkedin.com/in/lyuggang"><img
+                <div class="circle tilt"><a href="https://www.linkedin.com/in/lyuggang" onclick="sendClickEvent('linkedin')"><img
                         src="images/profile_img.png" title="LinkedIn Profile" alt="LinkedIn Profile"/></a></div>
             </td>
             <td>
-                <div class="small-circle tilt"><a href="mailto:me@lyuwonkyung.com"><img src="images/email.png" title="Mail"
+                <div class="small-circle tilt"><a href="mailto:me@lyuwonkyung.com" onclick="sendClickEvent('mail')"><img src="images/email.png" title="Mail"
                                                                                         alt="Mail"/></a></div>
             </td>
             <td>
-                <div class="small-circle tilt"><a href="http://fb.com/LyuGGang"><img
+                <div class="small-circle tilt"><a href="http://fb.com/LyuGGang" onclick="sendClickEvent('facebook')"><img
                         src="images/facebook.png" title="Facebook" alt="Facebook"/></a></div>
             </td>
             <td>
-                <div class="small-circle tilt"><a href="http://blog.lyuwonkyung.com/"><img
+                <div class="small-circle tilt"><a href="http://blog.lyuwonkyung.com/" onclick="sendClickEvent('ghost')"><img
                         src="images/ghost.png" title="Tumblr" alt="Tumblr"/></a></div>
             </td>
             <td>
-                <div class="small-circle tilt"><a href="http://github.com/LyuGGang"><img
+                <div class="small-circle tilt"><a href="http://github.com/LyuGGang" onclick="sendClickEvent('github')"><img
                         src="images/github.png" title="GitHub" alt="GitHub"/></a></div>
             </td>
         </tr>
@@ -62,9 +67,9 @@
 
 </div>
 <div id="footer">
-    <a href="http://validator.w3.org/check?uri=http%3A%2F%2Flyuwonkyung.com%2F">* This page was
+    <a href="http://validator.w3.org/check?uri=http%3A%2F%2Flyuwonkyung.com%2F" onclick="sendClickEvent('html5')">* This page was
         successfully checked as HTML5</a><br/>
-    <a href="http://www.google.com/chrome">and cannot work with IE8 or below</a>
+    <a href="http://www.google.com/chrome" onclick="sendClickEvent('chrome')">and cannot work with IE8 or below</a>
 </div>
 
 </body>
