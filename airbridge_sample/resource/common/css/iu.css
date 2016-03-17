@@ -1,0 +1,112 @@
+
+.IUHeader{
+    overflow:visible;
+}
+
+.IUTransition{
+    cursor: pointer;
+}
+
+.IUCarousel-wrapper{
+    height:100%;
+}
+
+.IUCollection > div{
+    float:left !important;
+    position:relative !important;
+}
+
+.IUGoogleMap{
+    /* google chrome bug :  div fixed issue */
+    /* http://stackoverflow.com/questions/16576961/chrome-only-fixed-div-w-google-map-scrolls-when-other-div-scrolls */
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    -webkit-transform: none !important;
+}
+
+/* progress bar */
+@-webkit-keyframes iu-inner-bar
+{
+    from{background-position:0px 40px}
+    to{background-position:0 0}
+}
+
+@keyframes iu-inner-bar
+{
+    from{background-position:0px 40px}
+    to{background-position:0 0}
+}
+
+.IUProgressBar >  .active, .PGSlideBar >  .active, .PGRangeSlideBar >  .active {
+    -webkit-animation: iu-inner-bar 2s linear infinite;
+    -o-animation: iu-inner-bar 2s linear infinite;
+    animation: iu-inner-bar 2s linear infinite;
+}
+
+.IUPopUp, .IUPanel{
+    -webkit-backface-visibility:hidden;
+    -moz-backface-visibility:hidden;
+    backface-visibility:hidden;
+    will-change:transform;
+}
+
+.IUPopUp{
+    display:none;
+}
+
+#IUPanelDimColor, #IUPopUpDimColor{
+    will-change:transform, opacity;
+}
+
+.IUPanel-closeButton, IUPopUp-closeButton{
+    cursor:pointer;
+}
+
+/* collapsible*/
+.IUCollapsibleHeader{
+    cursor:pointer;
+}
+
+.IUCollapsibleHeaderItem:last-child{
+    display:none;
+}
+
+.IUCollapsibleHeaderItem:first-child{
+    display:block;
+}
+
+/* menuItem */
+.IUMenuItem > ul{
+    display:none;
+}
+.IUMenuItem > ul.open{
+    display:block;
+}
+
+/****************************************************
+	 pg group css 
+*****************************************************/
+
+.PGButton {
+    cursor:pointer;
+}
+
+.PGFileUploadInnerButton {
+    cursor: pointer;
+}
+
+/****************************************************
+	 event css
+*****************************************************/
+
+.IUEventClickTrigger{
+    cursor: pointer;
+}
+
+.iuPanelButton, .iuPopUpButton, .IUPopUp-closeButton, .IUSimpleTabButton{
+    cursor: pointer;
+}
+
+.IUJQueryShowEventReceiver{
+    display: none;
+}
+
