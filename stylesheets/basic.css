@@ -30,7 +30,7 @@ a:active {
 }
 
 #header {
-    width: 538px;
+    width: 100vw;
     text-align: center;
     padding-top: 180px;
     padding-bottom: 10px;
