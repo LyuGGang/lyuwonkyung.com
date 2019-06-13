@@ -111,7 +111,7 @@ a:active {
     width: 8px !important;
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (min-width: 300px) {
     body {
        font-size: 12px;
     }
