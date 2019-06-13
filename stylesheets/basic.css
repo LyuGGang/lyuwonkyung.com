@@ -1,7 +1,7 @@
 body {
     background-color: #333333;
     color: #FFFFFF;
-    font-size: 0.65vw;
+    font-size: 2.6vw;
     font-family: 'helvetica';
 }
 
@@ -46,7 +46,7 @@ a:active {
     padding-top: 30px;
     width: 100%;
     font-family: 'helvetica';
-    font-size: 10px;
+    font-size: 1.5vw;
     text-align: center;
 }
 
@@ -109,4 +109,14 @@ a:active {
 
 .slick-dots li {
     width: 8px !important;
+}
+
+@media screen and (min-width: 540px) {
+    body {
+       font-size: 12px;
+    }
+
+    #footer {
+        font-size: 10px;
+    }
 }
