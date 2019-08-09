@@ -1,1 +1,0 @@
-It is just a [my personal website](http://lyuwonkyung.com).
