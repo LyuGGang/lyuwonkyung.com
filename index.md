@@ -1,7 +1,5 @@
 ## Wonkyung Lyu
 
----
-
 ### Links
 - Works
   - [LinkedIn](https://www.linkedin.com/in/lyuggang/)
