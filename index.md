@@ -7,7 +7,7 @@
 - Privates
   - [Facebook](https://www.facebook.com/LyuGGang)
   - [Instagram](https://www.instagram.com/lyuggang)
-  - [Whatcha](https://watcha.com/ko-KR/users/8BRvee78Qv6VJ)
+  - [Watcha](https://watcha.com/ko-KR/users/8BRvee78Qv6VJ)
 
 ### Contacts
 - [Email](mailto:me@lyuwonkyung.com)
