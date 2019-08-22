@@ -1,6 +1,6 @@
 ## Wonkyung Lyu
 
-### Links
+### Outlinks
 - Works
   - [LinkedIn](https://www.linkedin.com/in/lyuggang/)
   - [GitHub](https://github.com/LyuGGang)
