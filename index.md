@@ -22,5 +22,6 @@
 - 누군가의 꿈이 되도록.
 - 오늘을 오롯이 살아요.
 - 正道無憂, 바른 길로 가면 근심이 없다.
+- 헛똑똑이가 되지 말자.
 - 삼인행필유아사(三人行必有我師) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - Luck is indeed where preparation meets opportunity. — [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)
