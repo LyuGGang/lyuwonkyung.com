@@ -17,3 +17,4 @@
 - 삼인행필유아사(三人行必有我師) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - Luck is indeed where preparation meets opportunity. — [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)
 - [Plus ça change, plus c'est la même chose.](https://en.wiktionary.org/wiki/plus_%C3%A7a_change,_plus_c%27est_la_m%C3%AAme_chose) — [Jean-Baptiste Alphonse Karr](https://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr)
+- Never give in. Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy. — [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)
