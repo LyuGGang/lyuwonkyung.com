@@ -1,8 +1,11 @@
-## Wonkyung Lyu
+## 류원경 Wonkyung Lyu
 
 ### Outlinks
 - [LinkedIn](https://www.linkedin.com/in/lyuggang/)
 - [GitHub](https://github.com/LyuGGang)
+
+### Contacts
+- me (at) lyuwonkyung.com
 
 ### Quotations
 - 오, 나의 영혼아, 불멸의 삶을 애써 바라지 말고 가능의 영역을 남김없이 다 살려고 노력하라. (O my soul, do not aspire to immortal life, but exhaust the limits of the possible.) — [핀다로스](http://ko.wikipedia.org/wiki/%ED%95%80%EB%8B%A4%EB%A1%9C%EC%8A%A4), 아폴론 경기의 축가 3 ([Pindar](http://en.wikipedia.org/wiki/Pindar), Pythian iii)
