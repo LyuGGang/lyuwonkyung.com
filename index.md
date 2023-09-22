@@ -21,3 +21,4 @@
 - Never give in. Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy. — [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)
 - My goal in life now are pretty simple. Just to be happy, stay healthy, not get into a financial situation where I have to do Oceans 14. — [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt), [NBR](https://en.wikipedia.org/wiki/National_Board_of_Review) Award 2019
 - Anything is possible! — [Kevin Garnett](https://en.wikipedia.org/wiki/Kevin_Garnett) 
+- [只より高いものはない。](https://ja.wiktionary.org/wiki/%E5%8F%AA%E3%82%88%E3%82%8A%E9%AB%98%E3%81%84%E3%82%82%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%84)
