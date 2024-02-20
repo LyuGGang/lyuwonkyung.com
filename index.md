@@ -15,6 +15,7 @@
   - 1.001^365 ≈ 1.44
 - 正道無憂, 바른 길로 가면 근심이 없다.
 - 헛똑똑이가 되지 말자.
+- 심신이 건강한 삶을 살자. / 생각과 배움은 깊게, 걱정과 미움은 얕게. / 몸과 마음은 가볍게, 상대에 대한 이해와 존중은 무겁게. / 위대한 것들을 소비하고, 훌륭한 것들을 만들어내자. (2016)
 - 삼인행필유아사(三人行必有我師) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - 불환인지불기지 환부지인야(不患人之不己知 患不知人也), 불환인지불기지 환기불능야(不患人之不己知 患其不能也) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - Luck is indeed where preparation meets opportunity. — [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)
