@@ -24,4 +24,4 @@
 - My goal in life now are pretty simple. Just to be happy, stay healthy, not get into a financial situation where I have to do Oceans 14. — [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt), [NBR](https://en.wikipedia.org/wiki/National_Board_of_Review) Award 2019
 - Anything is possible! — [Kevin Garnett](https://en.wikipedia.org/wiki/Kevin_Garnett) 
 - [只より高いものはない。](https://ja.wiktionary.org/wiki/%E5%8F%AA%E3%82%88%E3%82%8A%E9%AB%98%E3%81%84%E3%82%82%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%84)
-- 원하는 곳에 서고 자기 기분을 스스로 결정할 수 있는 것. 그게 진정한 힘의 원천이다. 그게 가능할 때 사람들의 눈에 당신이 바라던 모습이 비친다. 이걸 알아내는 사람만이 세상을 운영하게 된다. — TV Series <[Billions](https://en.wikipedia.org/wiki/Billions_(TV_series))> 中
+- 세상에는 일을 겪는 사람이 있는가 하면 일을 만드는 사람도 있는 법이다. 누가 되고 싶은지 잘 생각해봐라. 원하는 곳에 서고 자기 기분을 스스로 결정할 수 있는 것. 그것이 진정한 힘의 원천이다. 그것을 이해하고 그것이 가능할 때 사람들의 눈에 당신이 바라던 모습이 비친다. 대부분은 이 사실을 모른다. 이걸 알아내는 사람만이 세상을 운영하게 된다. — TV Series <[Billions](https://en.wikipedia.org/wiki/Billions_(TV_series))> 中
