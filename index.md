@@ -21,6 +21,7 @@
 - 불환인지불기지 환부지인야(不患人之不己知 患不知人也), 불환인지불기지 환기불능야(不患人之不己知 患其不能也) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - 이능문어불능 이다문어과 유약무 실약허 범이불교(以能問於不能 以多問於寡 有若無 實若虛 犯而不校) — <[논어](https://ko.wikipedia.org/wiki/%EB%85%BC%EC%96%B4)> 中
 - 사득(舍得), 내려놓고 버릴 줄 알면 더 많은 것을 얻을 수 있다.
+- 우리에게 여름은 100번도 남지 않았다.
 - Luck is indeed where preparation meets opportunity. — [Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)
 - [Plus ça change, plus c'est la même chose.](https://en.wiktionary.org/wiki/plus_%C3%A7a_change,_plus_c%27est_la_m%C3%AAme_chose) — [Jean-Baptiste Alphonse Karr](https://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr)
 - Never give in. Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy. — [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)
