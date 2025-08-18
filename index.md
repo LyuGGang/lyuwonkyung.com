@@ -32,3 +32,4 @@
 - 분노하지 마라. 분노는 지혜를 가둔다. 적을 증오하지 마라. 증오는 판단을 흐리게 한다. 적을 증오하느니 차라리 적을 이용해라. — TV Series <[삼국](https://en.wikipedia.org/wiki/Three_Kingdoms_(TV_series))> 中
 - 우보천리(牛步千里) 마보십리(馬步十里)
 - 계산무진(谿山無盡), 계곡에 물이 흐르는 한 산은 죽지 않는다.
+- If having more money wouldn’t change what you do(how you spend your time), you’re already rich.
